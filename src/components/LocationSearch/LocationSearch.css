@@ -1,0 +1,5 @@
+.searchField{
+   flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%; 
+}
